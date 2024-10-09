@@ -1,5 +1,5 @@
 # TodoApp
 
-Demo application using NestJS and ReactJS to verify that I understood concepts well enough
+Demo application using Nest.js and React to verify that I understood concepts well enough
 
-![](/home/daniell/snap/marktext/9/.config/marktext/images/2024-08-01-14-00-59-Screenshot%20from%202024-07-19%2013-05-26.png)
+![](https://github.com/DatPika/TodoApp/blob/main/Pasted%20image.png)
